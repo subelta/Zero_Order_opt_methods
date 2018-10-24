@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Docs/GitHub/Zero_Order_opt_methods/OptMinimum.cpp
+OptMinimum.h
+X:/Docs/GitHub/Zero_Order_opt_methods/OptMinimum.h
+
+X:/Docs/GitHub/Zero_Order_opt_methods/OptMinimum.h
+iostream
+-
+math.h
+-
+
